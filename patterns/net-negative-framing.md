@@ -9,6 +9,7 @@ Yinnie holds a belief that if her entrepreneurial effort does not succeed, she w
 ## Examples from Sessions
 
 - **2026-04-16:** "Unless I succeed in being an entrepreneur, I just end up being that person who didn't have a life because I've been working all the time trying to make it work, and it didn't end up working. And my career is not excelling. So I'm net negative."
+- **2026-04-18:** Not stated explicitly, but structurally present. After three years of solo work, she is visibly drawn to the cofounder prospect partly because it offers something other than continuing alone. The pull toward having a building partner - after an exhausting, unresolved previous cofounder experience - reads in part as an exit from the net negative trajectory, not purely as belief in the idea.
 
 ## Clinical Notes
 
@@ -20,6 +21,8 @@ This pattern interacts with dispositional attribution: obstacles are not situati
 
 Insight-based challenges to this frame (pointing to her track record) have some traction - she receives them rather than deflecting - but do not appear to shift the underlying belief. Behavioural evidence (an actual user, a genuine piece of feedback, one thing working) is more likely to move it than reframing alone.
 
+In session 3, watch for whether the cofounder prospect is being evaluated on its merits or through this frame: "this could rescue me" is a net negative framing response, not a strategic assessment.
+
 ## Watch For
 
-Any time she frames a setback as confirming she is "behind" or that others are "ahead." The comparison to specific peers (friend with job offers, people from her cohort at better companies) is this pattern in action. Name the frame when it activates and test whether there is any concrete evidence supporting it versus whether it is running on assumption.
+Any time she frames a setback as confirming she is "behind" or that others are "ahead." The comparison to specific peers is this pattern in action. Name the frame when it activates and test whether there is any concrete evidence supporting it versus whether it is running on assumption. Also watch for decisions being made from exhaustion and the desire for an exit rather than from genuine strategic thinking.
