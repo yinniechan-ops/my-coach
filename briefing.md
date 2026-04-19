@@ -1,62 +1,83 @@
-# Briefing for Session 4
+# Briefing for Session 5
 
-**Prepared after:** Session 3 (2026-04-18)
-**For use by:** Voice coach at next session open
-
----
+> Handover note for the voice coach. Not for the client. Written as one clinician to another.
 
 ## Last Session
 
-Session 3 was short and slightly evasive. Yinnie arrived with something new - a potential cofounder she had met on the YC cofounder matching platform - and used it (probably not consciously) to avoid the commitment check from session 2. Neither commitment from that session was done: the Reddit reply is now two sessions old and undone, the therapy insurance is still processing.
+Session 4 (2026-04-19) was entirely relationship-focused. Yinnie brought her boyfriend Cyrus for the first time, and both prior commitments (Reddit reply, cofounder message) were confirmed completed at the open - briefly, before the session pivoted. The cofounder response was never discussed.
 
-The cofounder conversation was the substance of the session. A woman Yinnie met is building a two-sided tradesmen marketplace (users describe a plumbing or trades problem, system finds vetted local tradesmen, surfaces quotes). Yinnie has had a call and an in-person meeting with her. The prospective cofounder is giving ambiguous signals - can't clearly say whether she wants a cofounder, a founding team member, or a skilled hire. Yinnie spent most of the conversation trying to decode the ambiguity and looking for reasons not to make a direct ask. When pushed, she articulated clearly: she wants to be an equal cofounder, that's the whole point of what she's been building toward. She then immediately retreated from that clarity and started questioning the power balance.
+The relationship content: in October, during a house move, Yinnie was verbally abused by an estate manager. Cyrus stood approximately ten steps away, said nothing, did nothing, and did not check in with her afterwards. She nearly ended the relationship that night. They reconciled, but she describes it as "playing against my instincts" and "crossing my fingers." Months later she told her brother about it and felt it as strongly as she did at the time - plus embarrassment at still being with him.
 
-The session ended with two commitments: send a specific message to the cofounder prospect today ("I want to build this with you as a cofounder on equal terms. If that's what you're looking for, I'm in. If not, that's okay too."), and do the Reddit reply this weekend. Both commitments were agreed with the same flat "sure" / "I'll do that" energy that did not predict follow-through last time.
+Approximately one month ago they had a major conversation. She told him she needed actionable change and that "I don't know" was not an acceptable answer. In the month since, she cannot identify a single positive data point of him stepping up under pressure. She can name consistent positives when prompted (he does her dishes, always travels to her, manages the little things) - but she holds these in a different category.
 
-Emotional register: lighter than session 2, more distracted than depressed. The cofounder prospect seems to have energised her slightly. The session ended abruptly - she said she needed to go before the Reddit conversation could happen properly.
+The most important clinical moment: she identified herself, unprompted, that she keeps resetting to normal life before he has actually changed anything. This teaches him the upset passes. She is not passive in this dynamic - she is actively resolving the tension, then resenting him for not changing.
 
----
+Session ended with Yinnie heading home and a specific instruction: say one clear thing ("when you noticed I'd left the bed, your instinct was to go back to sleep - I need your instinct to be to check on me"), do not relitigate October, and do not paper over it and return to normal before he responds.
+
+Emotional register was notably more alive than sessions 2 and 3. More words, more animation, more frustration - all present and real. She was not guarded. No visible resolution at close, but she had something specific to do.
 
 ## Active Threads
 
-**Reddit reply - now critical.** This is a tiny task that has not been done across two sessions. It is the smallest possible version of the distribution work. Something is happening with this task specifically, and it needs to be understood, not just re-committed to. At session 4, ask what got in the way - and stay on it. Do not accept a re-commitment without understanding the obstacle first.
+**Relationship (Cyrus) - new and live:**
+October incident is the load-bearing unresolved event. The pattern of concern is: she articulates the problem clearly, they reset to normal without him demonstrating change, she resents him at the next trigger, repeat. She named this mechanism herself. Check what happened when she got home. This is the session 5 open question.
 
-**Cofounder prospect.** Two outcomes possible: she sent the message and got an answer (positive or negative), or she did not send it. Either is useful data. If positive: explore whether she actually believes in the idea or is partly drawn to it as an exit from solo work. If negative or no response: watch for dispositional attribution activating ("she doesn't want me"). If she didn't send it: this is the same compliance-without-conviction dynamic as the Reddit reply and worth naming as a pattern.
+**Cofounder prospect - response unknown:**
+Message was sent (confirmed session 4 open). The cofounder's response was not discussed - session pivoted before it was addressed. This is an important untracked thread. Check at session 5 open. The message sent was: "I want to build this with you as a cofounder on equal terms. If that's what you're looking for, I'm in. If not, that's okay too."
 
-**Therapy insurance.** Still processing. Not a broken commitment but check status. If it's been two weeks with no word, she should be chasing.
+**Reddit reply - done, engagement unknown:**
+Confirmed completed at session 4 open after being unfinished for two sessions. Whether it generated any responses or user engagement is unknown. Check.
 
-**Depression.** Not touched in session 3. Yinnie was slightly more energised this session - worth a brief check on whether that is a genuine shift or just the novelty of the cofounder situation.
+**Depression and therapy:**
+Not addressed in session 4. Insurance approval was still pending at session 3. Keep it brief at session 5 - check status, note it, move on unless she raises it.
 
-**Previous cofounder.** She said something telling in session 3: she articulated that if she has to decode someone at the start, the relationship won't work. She knows what a bad cofounder dynamic looks like. This suggests the previous cofounder experience was formative and possibly painful. It has never been explored. Relevant now that a new cofounder situation is live.
-
----
+**Previous cofounder:**
+Still completely unexplored across four sessions. Relevant to current exhaustion picture and to how she evaluates the new cofounder prospect. Low priority for now but worth holding.
 
 ## Pattern Pulse
 
-**Dispositional attribution - active.** In session 3: ambiguity from the cofounder prospect routed immediately to "maybe it's not me." Interrupted by pointing at actual data (prospect asked to be kept updated ten minutes prior). Pattern is intact.
+**Knowledge-feeling gap - active, present in relationship content:**
+She knows she is resetting to normal before he earns it. She identified the mechanism herself. She is still doing it. The behavioural instruction she left with is correctly aimed at this level. See patterns/knowledge-feeling-gap.md.
 
-**Net negative framing - background but relevant.** Not stated explicitly in session 3, but structurally present. Three years of solo work is exhausting. The pull toward this cofounder may be partly about having an exit from that exhaustion, not just belief in the idea. Watch for this if she talks about the prospect.
+**Dispositional attribution - quiet this session:**
+She attributed Cyrus's behaviour to Cyrus, which is appropriate. There was a brief "maybe I'm nitpicking" moment with some self-blame flavour, but it read more as genuine calibration uncertainty than the usual global internal attribution. Pattern intact but not dominant.
 
-**Compliance without conviction - active and now established.** This is not a one-off. "I'll do that now" in session 2 (Reddit reply) and "I'll send it now" in session 3 (cofounder message) follow the same pattern. In-session verbal commitments are not reliable. The test is always what happened, not what was said.
+**Net negative framing - background:**
+Not stated explicitly. Relevant context: a relationship requiring vigilance and unresolved hurt adds to the total load she is carrying on a depleted baseline. If the relationship becomes a sustained coaching topic, watch for "I'm even failing at this" or the relationship loss being framed as further net negative evidence.
 
-**Accountability pivot - new, watch.** Session 3 is the first time she redirected away from the commitment check with new content before the coach could stay on it. May be coincidence. If it happens again at session 4, name it: "I notice we moved away from the commitments quickly again - I want to stay there for a minute."
+**Compounding anxiety loop - background:**
+The October incident is functioning the same way the work anxiety does - each new incident routes through the unresolved original and amplifies. Last night's sofa incident would have been minor on its own; it is not minor because October is still live.
 
-**Compounding anxiety / depression - monitor.** Session 3 she was lighter. Do not read this as improvement until it is sustained. Brief mood check still warranted.
+**Reset and resentment cycle - new observation, not yet a named pattern:**
+First appearance of relationship content. She articulates the problem clearly, they reset to normal, he does not change, she resents at next trigger. She named it herself. Monitor for recurrence.
 
----
+**Compliance without conviction - not prominent:**
+She was more genuinely engaged this session. The close had a live action plan rather than a formal commitment, which left less room for flat agreement.
 
 ## If They Bring Up...
 
-**"I didn't do the Reddit reply"** - Do not accept a new commitment without understanding the obstacle first. Ask: what specifically got in the way? Was it finding the post, writing the reply, or something else? The task is small enough that the obstacle is psychological, not logistical. Name it and work with it.
+**"I talked to Cyrus last night" / "Here is what happened":**
+Ask what she said, what he said back, and - specifically - whether she managed not to paper it over and reset. The behavioural instruction was to hold the line and not return to normal before he responded. That is the data point. If she went back to normal anyway, use it: "you identified the pattern yourself - what happened at the moment of reset?"
 
-**The cofounder prospect / she responded** - Ask what she said and what Yinnie made of it. Watch for dispositional attribution if the answer was ambiguous or negative. If positive, ask whether she actually believes in the tradesmen idea or whether the appeal is partly about building with someone after three years alone.
+**"It went badly" / "We broke up":**
+Do not rush to problem-solve. Get the shape of what happened first. Then check whether she wants to use the session on this or on the app work. She has agency over the agenda.
 
-**The cofounder prospect / she didn't send the message** - Treat the same as the Reddit reply. What got in the way? The message wording was agreed in session. If she didn't send it, something is happening with putting herself out there that needs to be named, not just re-committed to.
+**"I don't know what to do about the relationship":**
+Do not answer the question. Redirect to: what would you need to see to know the answer yourself? She already named a potential threshold (same situation again, and he steps up - or doesn't). Hold her to her own criteria rather than offering a view.
 
-**Her previous cofounder** - Load session 2026-04-16 for context on what has been noted. The question of what happened with the previous cofounder has been flagged since session 2 but not explored. If she raises it, stay on it - it may be connected to both the net negative framing and the current cofounder dynamic.
+**"He said the good things cancel out the bad":**
+Name this directly. The dishes and the travel do not cancel out "I don't know." Both are true, and the gap is specific, not general.
 
-**Feeling better / worse / flat** - Brief check only unless she brings it forward. Note any change from the slight lift in session 3. Ask about therapy insurance.
+**"Should I break up with him":**
+Do not answer. Ask what her own threshold is. She named one herself in session 4: the day-to-day decisiveness test. Has she actually seen enough data on that test to have an answer?
 
-**"Should I give up on Daily"** - This is the net negative framing activating. Load patterns/net-negative-framing.md. Do not engage with it as a strategic question until the framing itself has been named.
+**"The cofounder replied" / "She didn't reply":**
+Load session 2026-04-18 for the dynamic and the exact message wording. The question is: does the response read as equal cofounder interest, or something else? Watch for net negative framing ("she rejected me") when no clear rejection exists. Also watch for decisions being made from exhaustion rather than strategic thinking.
 
-**Comparison to peers** - Load patterns/net-negative-framing.md. Name the frame: "that comparison is treating different games as if they have the same scoring."
+**"The Reddit reply got a response" / "No one replied":**
+If there was engagement: what did it feel like to respond as someone who built something for that problem? If nothing: that is one data point, not a verdict. What is the next post she could reply to?
+
+**Mood / therapy:**
+Check briefly. Insurance approval was still pending at session 3, not checked session 4. Keep it to one question. If therapy has started, note it and move on unless she raises it.
+
+**"Should I give up on the app":**
+Disposition attribution activating. Slow it down. Ask what specific data point is generating the conclusion. Do not accept a global verdict from a single obstacle.
