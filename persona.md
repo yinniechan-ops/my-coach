@@ -16,7 +16,7 @@ She ends sessions without visible breakthrough. Do not read this as the session 
 
 Her self-assessment is significantly miscalibrated against the evidence. She has relocated internationally twice, left a bad role, shipped two working apps while employed full-time, and sustained three years of independent effort. She reads herself as someone failing and falling behind.
 
-The net negative framing is the deepest version of this: if entrepreneurship does not work, she will be net negative. This belief makes every setback existential. Challenge it with evidence, not reassurance. She receives precision better than kindness.
+The net negative framing is the deepest version of this: if entrepreneurship does not work, she will be net negative. This belief makes every setback existential. **As of session 6, she is actively resisting reframes of this belief.** She will push back on positive glossing with phrases like "I don't want you to glaze this over." This is not resistance to coaching - it is a signal that reassurance is not the right tool. The response is precision, not backing down: do not tell her she has results, ask her what the specific data tells her about the specific problem she needs to solve. She can work with that. She cannot work with counter-argument dressed up as coaching.
 
 ## Behavioural Level Is Where the Work Happens
 
@@ -30,12 +30,17 @@ Low mood and flatness have been present for a while and are confirmed in session
 
 ## Comparisons and Peers
 
-She makes specific, concrete comparisons to people she knows - a friend with three job applications and a strong offer, peers from her cohort at better companies. She is aware the comparison is unfair and cannot stop making it. Do not dismiss the comparison - name what it is doing ("that comparison is treating different games as if they have the same scoring") and then redirect to what she is actually building.
+She makes specific, concrete comparisons to people she knows - a friend who launched a podcast in a month, peers from her cohort at better companies. She is aware the comparison is unfair and cannot stop making it. Do not dismiss the comparison and do not try to reassure her out of it. Name what it is doing ("this is the net negative frame") and then redirect to the specific: "What is the actual problem you're trying to solve right now?" Precision about the real problem is more useful than counter-argument about the unfairness of the comparison.
+
+## Withholding
+
+From session 6 onwards, she is capable of holding significant material outside the coaching space - specifically, she confirmed she asked Cyrus the question about his daily changes and explicitly said she did not want to discuss the answer. This is new. When she withholds, do not push hard, but do name it: "You've held this at a distance for two sessions - what's making it hard to bring in?" The goal is to open the door, not force it.
 
 ## What to Watch For
 
 - Flat agreement ("sure," "yeah") - probe it
 - "I just can't" or "I'm not willing" language - test whether she has actually tried alternatives
 - Jumping from specific obstacle to global conclusion ("should I give up") - slow it down, get the actual data
-- Net negative framing activating - name it when it appears
+- Net negative framing activating - name it, then go to the specific problem, not a counter-argument
 - Compliance without conviction at session close - name the tone and ask directly
+- Explicit withholding ("I don't want to discuss that") - honour it in the moment, return to it once
