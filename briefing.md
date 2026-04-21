@@ -1,90 +1,77 @@
-# Session Briefing - for voice coach
+# Briefing for Session 7
 
-**Prepared after:** Session 5 (follow-up call, 2026-04-19 evening)
-**Next session:** Session 6
+**Prepared after session 6 (2026-04-21). For the voice coach, not for Yinnie.**
 
 ---
 
 ## Last Session
 
-Session 5 was a brief follow-up call the same evening as session 4. Yinnie called to give updates on two things.
+Session 6 was activated and incomplete. Yinnie arrived in a comparison spiral triggered by a friend (Mimi, Shanghai) who launched a podcast with a co-host in approximately one month and already has significant listeners. The net negative framing came in hard and early: "two years, absolutely no results." When challenged, she pushed back directly: "I don't want you to glaze this over." This is new - she resisted the reframe more firmly than in any prior session. She is not entirely wrong: the distribution issue is real. The distortion is in "no results at all" rather than "no users yet."
 
-**Cofounder:** The prospective cofounder replied non-committally ("you were very clear, smiley face"). Yinnie read this as a polite no, said "we move forward," and closed the thread. No spiral, no self-blame. Clean closure. This is notable - in session 3 an almost identical ambiguous signal triggered a spiral into "maybe it's not me." Something was different this time, possibly because she had already sent a clear message and was assessing the response rather than sitting in unresolved ambiguity.
+She confirmed she asked Cyrus the question about daily changes. She then refused to discuss the answer: "I don't wanna discuss that right now." This was flat and firm - not a redirect, an explicit refusal. The session moved on. That thread was never returned to.
 
-**Cyrus conversation:** She had the conversation she was asked to have in session 4. His account of the sofa incident: he came home at 4am, was very drunk, thought it was already morning when she left the bed, did not register her departure as distress. He also named something real about her: that she goes cold in conflict and gives one-word answers, making it hard to know whether to reach for her or give her space. He said he would come to her earlier next time. He also said - and this is the live thread - "I'm making daily changes" in relation to October. This is the only concrete claim of growth he has offered.
+On the product side: Reddit replies have been received. People responded, mostly saying they have no use for Daily. She framed this as failure. It is the first substantive user feedback named across all sessions - positioning data, not a verdict. The session cut off before she could describe what reasons they gave.
 
-Yinnie did not follow up on "daily changes" in the conversation. Her explanation: "the conversation went somewhere else." Her immediate follow-up: "I can always bring it up another time." The coach named this as the reset pattern she identified herself last session. She pushed back: if he is genuinely making changes, he should not need to prepare, and she will ask him next weekend. She formulated the specific question when pressed: "You mentioned you're making daily changes to resolve what happened in October - can you tell me what those are?"
+Therapy insurance still pending. She noted it herself: "That's the process I cannot control."
 
-Session ended before a formal commitment was made and before she could articulate what a satisfying answer would look like.
+No commitment was formally placed. Session ended mid-exchange.
 
-**Emotional register:** More grounded than session 4. Less raw. She engaged with challenge rather than deflecting. The cofounder closure was notably clean. She ended the session with something to do but without the question fully worked through.
+Emotional register: more activated than recent sessions, frustrated and stuck. Honest about jealousy without being prompted. Flat and firm about not discussing Cyrus - that tone felt protective, not avoidant in the usual way.
 
 ---
 
 ## Active Threads
 
-**Relationship with Cyrus (primary active thread):**
-The October incident (estate manager verbally abused her while Cyrus stood by and said nothing) is the unresolved core. It has contaminated daily interactions for six months. They have had conversations about it but she keeps allowing the reset to normal life before he demonstrates genuine change. The most recent conversation was more substantive than previous ones - he named something real about her conflict behaviour, and he offered the phrase "daily changes." The specific question she needs to ask next weekend is: "You mentioned you're making daily changes to resolve what happened in October - can you tell me what those are?"
+**Cyrus / October incident - most important unfinished thread.**
+She asked the question ("You mentioned you're making daily changes to resolve what happened in October - can you tell me what those are?"). She has his answer. She would not share it last session. Open session 7 directly: "Last time you told me you weren't ready to discuss what Cyrus said. Are you ready now?" If yes, listen for: what did he say, what did she make of it, did it meet the bar of being "surprising in a good way" (her own phrase from session 5). If no, name it: "This is the second session you've held this at a distance - what is keeping you from bringing it in?" Do not push hard, but do not accept another deferral without naming it.
 
-She cannot yet articulate what a satisfying answer would look like. This is a gap. Before she has that conversation, it would be worth helping her name her evaluation criteria - what would tell her he has actually reflected, versus what would tell her he is saying words. "Surprising in a good way" is where she landed before the session ended. Push into what that means specifically.
+**Daily / distribution - real feedback now exists.**
+People are responding to Reddit posts and saying they have no use for Daily. This is the first substantive product signal named in six sessions. Get to it in session 7. Specifically: what reasons are they giving? Is it a positioning problem (wrong audience), a messaging problem (unclear value), or a product problem (the thing does not solve a real need they have)? She has data. She has not examined it. This is not failure - this is the work.
 
-She will see him next weekend. Check at session 6 open whether she asked the question and what he said.
+**Partnership / co-building.**
+The most emotionally loaded element of the Mimi comparison was not the listeners or the speed - it was having a co-builder. She named partnership as the first of three things she wants. The cofounder thread closed two sessions ago with minimal processing of what that closure meant. Does she want to try again? Is the solo path feeling unsustainable in a way that needs to be named? This has not been directly addressed.
 
-**Daily and distribution (background, not addressed in sessions 4-5):**
-Cofounder thread is now closed. She is back to solo work on Daily. The Reddit reply was done (confirmed session 4 open). Whether it generated any engagement has not been checked. The distribution work has been largely absent from sessions 4-5 due to the relational material taking over. This may be appropriate - she needed to deal with the Cyrus situation - but it is a thread to return to. She has not tried Product Hunt or any PM-specific community beyond Reddit.
+**Therapy insurance.**
+Still pending. Check briefly every session. Has she chased it or is she waiting passively? Remind her that chasing it is within her control even if the outcome is not.
 
-**Therapy insurance approval:**
-Not checked in sessions 4 or 5. It has been live since session 2. Check at session 6.
+**Mood baseline.**
+Not directly assessed in sessions 4, 5, or 6. The Mimi spiral has been sitting for a while - she has been carrying it since the launch, not just feeling it acutely on the day. The chronic low mood picture from session 2 is still the clinical backdrop. Ask simply: how has the mood been this past week, separate from today.
 
-**Depression and mood baseline:**
-Not checked in sessions 4 or 5. At session 2 she confirmed persistent low mood and flatness beyond app frustration. This is a clinical thread that needs a brief check-in each session.
+**Session commitment.**
+Nothing was placed last session. Name this at the session close: "We didn't land a commitment last time. Before we end, we're going to name one specific thing." The most likely candidate is something about examining the Reddit feedback - what specifically people said, what that tells her about who she is targeting.
 
 ---
 
 ## Pattern Pulse
 
-**Reset and resentment cycle (active, visible within session 5 itself):** This is the primary active pattern in the relational work. She identified the mechanism herself in session 4. In session 5 it operated in real time during the update call: she let "daily changes" pass, said "the conversation went somewhere else," then said "I can always bring it up another time." The pattern is not just conceptually understood - it is running. The intervention is behavioural and specific: she has a question formulated, she needs to ask it at a specific point in the weekend. Do not accept vague reassurance that she will bring it up.
+- **Net negative framing:** Active and more resistant to challenge than in prior sessions. She explicitly rejected positive framing. Precision works better than counter-argument here. Instead of "you do have results," try: "What specifically would you call this data coming back from Reddit?" Hold the real problem (no users) without colluding with the global frame (two years, nothing).
 
-**Knowledge-feeling gap (active):** She can identify the reset happening and still does it. This is the same gap that operates in the professional domain - knowing what needs to be done does not move the doing. The intervention is the same: pre-planned, specific, behavioural.
+- **Dispositional attribution:** Partially present. The "no results" framing and the partnering comment have some internal attribution flavour, but less purely dispositional than early sessions.
 
-**Dispositional attribution (quiet, domain-specific):** Not active in either session 4 or 5. The cofounder closure in session 5 is the clearest data point - she read a non-committal reply as a no and moved on without self-blame, in a situation that would previously have triggered the pattern. The pattern appears most active in ambiguous professional/entrepreneurial situations where she is waiting for external confirmation of her own worth. In interpersonal situations where behaviour is clearly attributable to the other person, it is quieter.
+- **Knowledge-feeling gap:** Active - she knows the comparison is unfair, named it herself, cannot stop making it.
 
-**Net negative framing (dormant):** Not present in sessions 4 or 5. The relational focus has shifted the content. Watch for it if the cofounder closure creates a "back to solo" moment that reactivates the "I'm falling behind" frame.
+- **Compounding anxiety loop:** The Mimi jealousy has been sitting, not episodic. Consistent with chronic baseline mood picture.
 
-**Compounding anxiety loop (background):** October is functioning as the unresolved anchor that each new incident routes through and amplifies. This is the relational version of the same compounding mechanism. Not acutely active but structurally present.
+- **Reset and resentment cycle:** Unknown state this session. She has the answer to the Cyrus question. The refusal to share it is its own signal - may be protective, may indicate the answer was significant in some way.
+
+- **Compliance without conviction:** Not assessed this session - no commitment was placed to agree to. Watch for it at session close when placing a commitment.
 
 ---
 
 ## If They Bring Up...
 
-**The Cyrus conversation from last weekend:** This is the first check-in question. Did she ask the question? What did he say? What did she make of it? If she did not ask: what got in the way, and what does that tell her about whether she is going to ask it? Do not let her move past this quickly.
+**Cyrus:** Priority. Open with it directly: "Last time you weren't ready to discuss what Cyrus said - are you now?" If she shares: explore what she heard, what she made of it, whether it was surprising, and what she needs next. She still has not named what a good answer would look like (flagged session 5 as unresolved). Load sessions/2026-04-19-followup.md for the specific question she formulated and the context around what she was waiting to hear.
 
-**Feeling like she is being unfair to Cyrus / nitpicking:** This came up in session 4. She said she might be seeing things through a "contaminated lens." The response is not reassurance - it is precision. What is the specific behaviour she is waiting to see? Naming it clearly is itself useful.
+**Mimi / peer comparison:** Name the pattern directly: "This is the net negative frame activating." Then redirect to the specific: "What is the actual problem you're trying to solve right now with Daily?" Do not reassure. Load sessions/2026-04-21.md for the Reddit feedback she received.
 
-**What counts as a good answer from Cyrus:** She could not articulate evaluation criteria in session 5. If this comes up, push into it: what would a satisfying answer actually sound like? What would "surprising in a good way" mean specifically? This is not an abstract question - she is going into a real conversation next weekend and needs to know what she is evaluating.
+**No results / giving up:** Slow it down. Ask what specific problem she is trying to solve. Do not accept the global framing. "Two years, no results" needs to be examined data point by data point. The Reddit feedback is where to start.
 
-**The cofounder closing / going back to solo work:** If she brings up feeling alone in the work again, this is net negative framing activating. Name it and redirect to what is actually in front of her. She has a real product with real (if thin) user data. Reddit generated a reply. What is the next distribution action?
+**Partnership / wanting a co-builder:** Take it seriously rather than redirecting. She has named partnership as the thing she wants most. Is she willing to look again, or does the previous experience make that feel too costly? Load sessions/2026-04-18.md for context on how the last cofounder search went, and note that the original cofounder departure is still unexplored across all six sessions.
 
-**Therapy / mood:** Brief check-in. Has insurance approval come through? How is the baseline mood? If she says it has worsened, prioritise the therapy pathway.
+**Reddit feedback / product data:** This is not failure data - it is targeting data. If she says "no one wants it," ask: "What exactly are they saying? Are they saying the problem doesn't exist, or that they already solve it a different way, or that this particular solution doesn't fit?" The three are different problems with different responses.
 
-**The original cofounder experience:** Has not come up in five sessions. If she raises it, it is likely significant. Load sessions 1-3 for context on what has been said - it has not been explored, only mentioned.
-
-**The Holland and Barrett experience:** Referenced in session 1 as relevant to her confidence. Still unexplored. If she raises it, it may be connected to how she reads setbacks.
+**Depression / mood:** If she brings low mood forward, acknowledge it and ask about the insurance. Keep it brief unless she pushes it forward. Do not take over the clinical function.
 
 ---
 
-## Open Commitments to Check
-
-1. **Ask Cyrus the question about daily changes** - formulated in session 5, not formally committed. "You mentioned you're making daily changes to resolve what happened in October - can you tell me what those are?" Check first.
-2. **Therapy insurance approval** - not checked in two sessions.
-3. **Reddit reply engagement** - was the reply done (confirmed session 4), but did it generate responses or any signal?
-
----
-
-## Clinical Notes for Voice Coach
-
-Yinnie does not need warmth. She needs precision. She responds to evidence-based challenge and specific behavioural questions. Flat agreement ("sure," "I'll ask, it's fine") is a signal to probe, not accept - though in session 5 she pushed back with more substance than usual, so check whether she has actually engaged before probing.
-
-The relational material is now the primary presenting content. The same operating principles apply: what specifically will she do, when, in response to what. She does not need to be encouraged to process feelings about Cyrus - she is doing that. She needs help making sure the specific question gets asked and that she knows what she is listening for when it is answered.
-
-Depression is a live thread. Do not take it over clinically but do check in briefly.
+**Opening move for session 7:** Check the Cyrus thread first. It has been held at a distance for two sessions now. Then move to the Reddit feedback data. Place a commitment before the session ends - this did not happen last session.
