@@ -1,70 +1,53 @@
-# Briefing for Session 8
+# Briefing for Session 9
 
-**Prepared after:** Session 7 (2026-04-26)
+## Last Session (Session 8 - two calls, April 29 and May 2)
 
----
+**Part one (April 29):** Yinnie arrived in a peer comparison spiral - a different friend from Mimi, in final rounds for a YC-backed startup at 130-150k. Net negative framing strongly active. Rachel had confirmed coffee for the next day, but Yinnie had done zero research, citing pessimism and exhaustion. The biggest moment: she disclosed the ex-cofounder story for the first time. He was uncommitted, accidentally deleted their waitlist on Supabase free trial, showed no remorse, then admitted he wasn't invested. She continued alone. She also said the deepest self-assessment she has made: "I don't think people want to work with me because I honestly don't bring anything other than my pure grit." The coach challenged this with her track record. She heard it but it is unclear how much landed. Session ended with specific guidance for the Rachel coffee: 30 minutes of research, go in curious not auditioning, remember you are also interviewing her.
 
-## Last Session
+**Part two (May 2):** Yinnie opened by requesting to discuss Cyrus - first time she has initiated this topic. His answer about daily changes: "I'll be there for you more" - vague. She described three recent incidents: glasses shop (he stood up and came to her side, new behaviour, but didn't speak), near-robbery on street (he said "why are you telling me?" which landed badly), cinema overheating (got her water, stood by her, didn't speak). Then a holiday planning conflict: friends booked same flights, collapsing the alone time Cyrus had arranged.
 
-Yinnie arrived chaotic, depleted, and low. Two significant developments:
+The most clinically significant moment: with coaching, she recognised she is on "high alert" and may be watching for evidence of failure rather than assessing Cyrus fairly. She said "that's bad" and engaged genuinely. She also identified his people-pleasing as her core structural concern - he has said he "doesn't understand why people-pleasing is a bad thing."
 
-**1. Daily is effectively over.** She has stopped using her own product. Two people out of all manual outreach emails replied, both saying it does not fit how they work. Zero Reddit engagement. She correctly identified the targeting problem ("people who read newsletters" is too generic). She said plainly: "No one is using the product. We can just admit that and move on." She then distinguished this from giving up on building entirely: "I want to build, but I don't know what to build. I'm exhausted." This was grounded, not spiralling. Hold this distinction - it is the first time she has separated an accurate product assessment from the net negative narrative.
+The session ended with a specific intervention: ask Cyrus directly for what she wants (keep the original day alone, meet friends next morning) instead of pre-calculating his objection.
 
-**2. New cofounder prospect: Rachel.** Met via YC cofounder matching (messaged over a year ago, Rachel just responded). Rachel is an ex-Reddit PM (5 years), completed Antler without finding a cofounder, is pursuing a B2B sustainability play - reducing fashion brand waste from returns in the 3PL space. She wants a technical cofounder. Yinnie is not technical. The call was messy - Yinnie arrived late, router broken, said she was interested in consumer apps (misaligned with Rachel's B2B focus), felt unfocused. Despite this, Rachel suggested meeting for coffee in person. Yinnie sent a clean follow-up email during the session: "lovely to chat, sorry I was late, would love to continue over coffee, here's my number, easiest on WhatsApp." She then immediately pre-calculated failure: "she's probably gonna give me a lukewarm response." This was named as the net negative frame.
-
-Partnership was explicitly articulated as her central need for the third consecutive session: accountability, sparring, companionship, different perspective. The exhaustion is not only about Daily failing - it is about doing everything alone for three years.
-
-**Cyrus:** She said she was ready to discuss what he said about daily changes, but the session ended before they got there. This is the second consecutive session where this has been deferred. In session 6, she explicitly refused ("I don't want to discuss that right now"). In session 7, she agreed but ran out of time. It must be addressed in session 8 - do not let it defer a third time.
-
-**Mood:** Confirmed as chronically low for "1 or 2 years." Therapy insurance still pending. She has chased it. Nothing more she can do. Do not ask about insurance again unless she brings it up or significant time has passed.
-
-**Emotional register:** Defeated, scattered, running on empty. One moment of clarity ("I want to build but I don't know what"). More assertive with the coach than before - called out a repeated question directly and with irritation.
-
-**Coach error to avoid:** The coach asked about therapy insurance twice in the same session. Yinnie called it out sharply. Do not repeat information she has already given in the same conversation. If you are unsure whether something has been discussed, do not ask - trust that she will tell you if there is an update.
-
----
+Emotional register: Part one was flat and pessimistic. Part two was more organised and engaged, with a genuine moment of self-questioning about whether she is being fair to Cyrus.
 
 ## Active Threads
 
-**Rachel / cofounder prospect:** The email has been sent. Check at open: did Rachel respond? If yes, is coffee scheduled? Did Yinnie do any research into the 3PL/fashion waste space? If no response, how is she holding that? Watch for dispositional attribution ("I fumbled it") if Rachel has not replied.
+1. **Rachel coffee outcome** (HIGHEST PRIORITY): Coffee was scheduled for April 30. Outcome unknown. This is the most immediately actionable thread. Did it happen? How did it go? Is there a next step? Did she do any research beforehand?
 
-**Daily - what happens now?** She has effectively shelved it. The question is whether she formally closes it, leaves it dormant, or tries to pivot. She does not need to answer this immediately, but naming it as a decision rather than a drift matters. The real insight from Daily: the problem was too generic, the targeting was nonexistent, and she was building alone. All three of those are solvable with a different approach and a partner.
+2. **Cyrus - holiday and direct communication**: She was pushed to ask Cyrus directly about keeping the day alone. Did she do it? What happened? The broader Cyrus thread is now fully in the room - his answer was vague, she sees small changes but questions whether they count, and people-pleasing is the structural concern.
 
-**Cyrus - the answer she has been holding.** She asked him about his "daily changes" (confirmed session 6). She received an answer. She has not shared it across two sessions. In session 6, she explicitly refused. In session 7, she agreed but time ran out. Open session 8 with this: "Last time you said you were ready to talk about what Cyrus said. Do you want to start there?" If she defers again, name the pattern: "This is the third session. What's making it hard to bring in?" Do not force, but do not accept indefinite deferral.
+3. **"I don't bring anything other than pure grit"**: Deepest self-assessment yet. Goes beneath the net negative frame to "I have nothing to offer." Origin is the ex-cofounder loss. The coach challenged with her track record. Whether it landed is unclear. If she raises self-doubt about partnering or her value, load this context.
 
-**Chronic low mood:** One to two years of sustained low mood. Therapy insurance pending, she has chased. This is the water everything is swimming in. Do not over-inquire about insurance status - she will tell you if it moves. Do check briefly on mood at each session: "How has the week been, separate from the work stuff?" Keep it to one question, not a sequence.
+4. **Ex-cofounder loss**: Now disclosed. He deleted the waitlist, showed no remorse, admitted he wasn't invested. She continued alone. This shapes every partnership prospect. The loss has never been processed as a loss - she moved straight to solo building. If she shows pessimism about Rachel or partnership generally, the ex-cofounder experience is the origin.
 
-**Partnership as central need:** Three sessions running. She wants a building partner more than she wants a specific idea. The Rachel prospect is the live test of whether she can pursue this. The original cofounder who left Daily has never been explored - seven sessions in. This may be a significant unprocessed loss that is shaping how she approaches new prospects.
+5. **Peer comparison widening**: Now two specific people (Mimi with podcast, friend at YC startup). The pattern is generalising from one trigger to a sense of everyone moving while she is stuck. She resists separation of comparisons more forcefully than before.
 
----
+6. **Therapy**: Insurance was pending. She asked us not to re-ask. Let her volunteer updates.
 
 ## Pattern Pulse
 
-| Pattern | Session 7 Status | Notes |
-|---|---|---|
-| Net negative framing | Active but shifting | For the first time, she separated a grounded product assessment from the global narrative. Reinforce this distinction. Still active in pre-calculating failure with Rachel. |
-| Dispositional attribution | Active | "I fumbled it," "I didn't sell myself" about the Rachel call. Route through situational factors (late, depleted, no prep). |
-| Knowledge-feeling gap | Active | Knows the call was state-dependent, still spiralled about it. Knows partnership is what she needs, pre-calculates rejection before pursuing it. |
-| Partnership as live need | Strengthening | Third consecutive session. Now explicitly articulated. New pattern file created. |
-| Compounding anxiety loop | Background | Chronic baseline rather than episodic. One to two years of low mood. |
-| Reset and resentment cycle | Unknown | Cyrus material not discussed. Cannot assess until she brings in the answer. |
-
----
+- **Net negative framing**: STRONGLY ACTIVE. Has deepened from "I'm behind" to "I have nothing to offer." Multi-person comparisons. Resisting reframes more forcefully.
+- **Dispositional attribution**: ACTIVE. "Playing all my cards wrong." "People don't want to work with me." Now traceable to ex-cofounder loss as origin event.
+- **Knowledge-feeling gap**: ACTIVE. Recognised high-alert contamination of Cyrus assessment but continues it. Has concrete requests and cannot make them. Knew she should research Rachel's space and didn't.
+- **Reset and resentment cycle**: EVOLVING. No longer premature reset - now indefinite vigilance. She acknowledged she is hypersensitive and projecting. The pattern may be transitioning from reset-and-resent to vigilance-and-exhaust.
+- **Partnership as live need**: ACTIVE. Ex-cofounder disclosure explains depth of need and pessimism.
+- **Compounding anxiety loop**: BACKGROUND. Chronic low mood continues.
+- **New observation - mirrored people-pleasing**: She identified Cyrus's people-pleasing as core concern while herself pre-calculating accommodation. She has not noticed this parallel. Do not force it, but if it arises naturally, it is worth naming.
 
 ## If They Bring Up...
 
-**"Rachel didn't respond" or "the coffee was awkward":** Load patterns/dispositional-attribution.md. Separate the state she was in on the call from a verdict on her as a cofounder prospect. Ask: "What specifically went well, and what specifically didn't?" Do not let her collapse it into "I'm not what people want."
+- **Rachel / the coffee**: Ask what happened. If it went well, ask what specifically she liked. If it didn't, watch for dispositional attribution ("I fumbled it") vs. situational assessment. If a next step exists, land a concrete commitment. Load `sessions/2026-04-29.md` for the prep conversation and `patterns/partnership-as-live-need.md` for context.
 
-**"Rachel and I are meeting" or "the coffee went well":** This is significant. Ask what she learned about the idea, about Rachel, and about whether she could see herself building with this person. Watch for over-investment before reciprocal signals.
+- **Cyrus / the holiday**: Ask if she made the direct request. If she did, what happened? If she didn't, name it without shame: "What got in the way?" Load `sessions/2026-04-29.md` for the full account. Watch for the vigilance-and-exhaust evolution of the reset pattern. If she is cataloguing his failures, ask: "Are you assessing him or watching for evidence of failure?" - this landed in session 8.
 
-**"I want to give up on building entirely":** Load patterns/net-negative-framing.md. Distinguish between giving up on Daily (grounded) and giving up on building (the net negative frame). She said "I want to build" in session 7. Hold her to that.
+- **Peer comparison / salary / feeling behind**: This is the net negative frame. Do not argue with the comparison. Name the frame, then redirect: "What is the actual next step you need to take?" Load `patterns/net-negative-framing.md`. If she says "I don't bring anything," load the coach's challenge from session 8: shipped two apps while employed full-time, relocated twice, three years of sustained effort after a cofounder who didn't care walked away.
 
-**"I don't want to talk about Cyrus":** This is the third deferral. Say: "I hear you. But this is the third time. I'm not going to force it, but I want to name that something about this answer is hard to bring into the room. When you're ready, I'm here." Then move on. Do not push harder than this, but do not pretend it is not happening.
+- **Self-doubt about her value / partnership**: The "pure grit" disclosure is the key. The ex-cofounder loss is the origin. Do not reassure generically. Challenge with specific evidence. Load `patterns/dispositional-attribution.md`.
 
-**"Cyrus said [something]":** Load sessions/2026-04-19-followup.md for context on the question she asked. Load patterns/reset-and-resentment-cycle.md. Ask: "What did you make of that answer?" Then: "What does it tell you about whether the pattern has changed?" Do not tell her what to do about the relationship. Help her assess the data.
+- **Therapy / depression / mood**: Do not re-ask about insurance. If she volunteers an update, engage. If mood seems worse, ask one question: "How has the low mood been this past week?" If worsening, ask whether she has considered alternative access routes.
 
-**Mentions of Mimi, peers, or being behind:** Load patterns/net-negative-framing.md. Name the frame. Redirect to the specific, solvable problem. "What is the actual next step you need to take?"
+- **Daily**: Shelved as of session 7. If she raises it, it is probably in context of "what do I build next." Do not push to formally close it unless she wants to.
 
-**Therapy or mood:** Insurance is pending. She has chased. Do not re-ask about insurance status unless she volunteers an update. If mood is worsening, note it and ask whether she has considered other therapy access routes (self-pay, sliding scale, different provider).
-
-**The original cofounder who left Daily:** If this comes up organically, explore it. It has never been discussed in seven sessions. With partnership now the central need, this loss history may be directly relevant to how she approaches new prospects and why she pre-calculates rejection.
+- **People-pleasing parallel**: If she describes accommodating someone to avoid conflict while also criticising Cyrus for people-pleasing, name the parallel gently. Do not force it.
