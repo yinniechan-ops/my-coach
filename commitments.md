@@ -2,20 +2,21 @@
 
 ## Active
 
-- **Follow up if Rachel responds** (set 2026-04-26, session 7): Yinnie sent the coffee follow-up email during session. If Rachel responds, Yinnie discussed doing research into the 3PL/fashion waste space before meeting. Check at session 8 open: did Rachel respond? Is coffee scheduled? Did she do any research?
+- **Ask Cyrus directly about keeping the original day alone on holiday** (set 2026-05-02, session 8b): She has a specific want (keep their day, meet friends the next morning) and was pre-calculating his objection instead of asking. The coach pushed her to say it plainly. Check at session 9: did she ask? What happened?
 
-- **Discuss what Cyrus said about daily changes** (deferred from sessions 6 and 7): She confirmed she asked him and has the answer. She was not ready to discuss it in session 6 (explicit refusal) and ran out of time in session 7 (agreed but session ended). Must be opened at session 8. Do not accept a third deferral without naming the pattern.
+- **Rachel coffee follow-up** (set 2026-04-29, session 8a): Coffee was scheduled for April 30. Outcome unknown. Check at session 9 open: did it happen? How did it go? Did she do any research beforehand? Is there a next step?
 
-- **Chase therapy insurance approval** (set 2026-04-16, session 2): She has chased it. Insurance is pending. She cannot do more. Do not re-ask unless significant time has passed or she volunteers an update.
+- **Discuss what Cyrus said about daily changes** (deferred from sessions 6-7, discussed session 8b): COMPLETED in session 8. His answer: "I'll be there for you more." Three recent incidents discussed. She recognised she may be on high alert. Thread is now open and active rather than deferred.
 
 ## Completed
 
-- **Send follow-up email to Rachel** (session 7): Completed during session. Clean email sent.
-- **Ask Cyrus the specific question** (formulated session 5): Confirmed completed at session 6 open. Answer received but not shared.
+- **Discuss what Cyrus said about daily changes** (session 8b): Completed. His answer disclosed and discussed. Thread is now live.
+- **Send follow-up email to Rachel** (session 7): Completed during session.
+- **Ask Cyrus the specific question** (formulated session 5): Completed at session 6.
 - **Send cofounder message** (set session 3): Completed. Thread closed.
-- **Reply to one Reddit post** (set session 2, re-committed session 3): Completed. Zero replies received. Thread closed.
-- **Have one specific conversation with Cyrus** (set session 4): Completed in session 5 follow-up.
+- **Reply to one Reddit post** (set session 2): Completed. Thread closed.
+- **Have one specific conversation with Cyrus** (set session 4): Completed.
 
 ## Stalled
 
-- **Examine the Reddit/email feedback data** (noted session 6, placed session 7): Resolved in session 7. Clarification: zero Reddit replies. Two email replies from manual outreach, both saying Daily does not fit how they work. Yinnie correctly identified the targeting problem (too generic). Daily effectively shelved. No further action needed on this commitment.
+- **Chase therapy insurance approval** (set session 2): She has chased it. Insurance is pending. She cannot do more and asked the coach not to re-ask. Let her volunteer updates.
