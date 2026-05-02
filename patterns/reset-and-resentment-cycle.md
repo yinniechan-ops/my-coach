@@ -2,33 +2,36 @@
 
 **First observed:** 2026-04-19 (session 4)
 **Confirmed:** 2026-04-19 follow-up call (session 5)
+**Significant evolution:** 2026-05-02 (session 8b)
 
 ## Description
 
-Specific to the relationship with Cyrus, though possibly broader. Yinnie identifies a problem, expresses it or sits with it, and then allows normal life (dinner, TV, physical closeness) to resume before any genuine change has been demonstrated. This teaches Cyrus that the upset passes without him needing to do anything differently. She then resents him at the next trigger because nothing has changed - and is correct that nothing has changed, because she has removed the pressure for it to change. She identified this mechanism herself in session 4 without prompting.
+Specific to the relationship with Cyrus. Originally described as: Yinnie identifies a problem, allows normal life to resume before genuine change is demonstrated, then resents him at the next trigger. She identified this mechanism herself in session 4.
+
+**Session 8 evolution:** The pattern has shifted. She is no longer prematurely resetting to normal. She asked the question about daily changes (session 6), she is watching his behaviour carefully, she is cataloguing incidents. But the vigilance itself is becoming a problem. She acknowledged in session 8 that she is "on very high alert" and "hypersensitive," and that she may be watching for evidence of failure rather than assessing fairly. The pattern may be transitioning from reset-and-resent to vigilance-and-exhaust.
 
 ## Examples from Sessions
 
-- **2026-04-19 (session 4):** She identified unprompted that she keeps accepting the reset to normal life with Cyrus after conflict - dinner, TV, cuddles - before he has demonstrated change. She articulated clearly that this teaches him the upset passes without requiring him to do anything different.
-
-- **2026-04-19 (session 5, follow-up call):** During the update call itself, she let Cyrus's phrase "I'm making daily changes" pass without pressing. Her account: "the conversation went somewhere else." Her immediate response: "I can always bring it up another time." When the coach named this as the reset pattern, she engaged with it, then offered the argument that she will ask next weekend and he does not need to prepare.
-
-- **2026-04-21 (session 6):** She confirmed she asked Cyrus the question about daily changes. She received an answer. She said "I don't wanna discuss that right now" when the session opened. This is neither the reset (she did not normalise things before he demonstrated change - she asked the question) nor resolution. She is holding the answer privately. The state of the pattern is currently unknown.
+- **2026-04-19 (session 4):** Identified unprompted that she keeps accepting the reset to normal life before he demonstrates change.
+- **2026-04-19 (session 5):** Let Cyrus's phrase "I'm making daily changes" pass without pressing. When named as the reset pattern, she engaged.
+- **2026-04-21 (session 6):** Confirmed she asked the question. Refused to discuss the answer. Neither reset nor resolution.
+- **2026-05-02 (session 8b):** Full disclosure. Three recent incidents described. She noticed he stood up at the glasses shop (new behaviour, would not have done this before) and immediately found a reason it didn't count. When the coach asked whether she was assessing him or watching for evidence of failure, she said "that's bad" and engaged genuinely. She also said she doesn't want to keep holding October above his head. The internal conflict is visible: she wants to be fair, she wants to see change, and she is not sure she can trust what she sees.
 
 ## Clinical Notes
 
-This pattern operates at the level of automatic social behaviour, not deliberate choice. She does not decide to reset; the tension dissolves and the warmth of normal life resumes and she goes with it. The mechanism is the same as the knowledge-feeling gap: she can identify exactly what is happening and cannot stop it at the level of spontaneous behaviour. It requires pre-planned, specific action at the point of contact - not reflection afterwards.
+The original reset pattern operated at the level of automatic social behaviour - tension dissolves, warmth resumes, she goes with it. The current state is different: she is staying vigilant, not resetting. But the vigilance is exhausting her and may be preventing her from seeing genuine change when it occurs.
 
-The pattern may not be unique to this relationship. The broader question - does she accept inadequate outcomes in other domains to avoid conflict, then resent the outcome? - is open. Her management of the cofounder ambiguity across sessions 3-5 is a possible parallel.
+The key question has shifted from "can she hold the tension instead of resetting?" to "can she assess change accurately while holding the wound from October?" The high alert is protective but also distorting.
 
-The reset is also doing something for her: it restores warmth and safety in the short term. The cost is the accumulation of unresolved hurt and resentment over time.
+His people-pleasing is a legitimate structural concern. He has said he doesn't understand why people-pleasing is a bad thing. If this is accurate, it means the trait is not visible to him as a problem, which limits the likelihood of genuine change. But the holiday conflict - where he tried to carve out alone time, the friends changed the plan, and he apologised - is more nuanced than a simple people-pleasing read. He was managing multiple needs and got caught when the friends acted independently.
 
-**Session 6 update:** She asked the question as planned. She has an answer. She is holding it outside the coaching space. This is different from the reset - she did the thing. The refusal to discuss the answer is its own signal, distinct from the reset mechanism. Possible readings: the answer was significant enough (good or bad) to need time to process; she has made a decision she is not ready to name; the Mimi spiral was more immediately live and she was not ready to shift registers. The pattern's current state cannot be assessed until she brings the answer in.
+A new observation: she criticises his people-pleasing while herself pre-calculating how to phrase requests so his friends won't feel unwelcome. This parallel is not visible to her. Worth naming if it recurs.
 
 ## Watch For
 
-- Any time she describes a conflict with Cyrus that "resolved itself" or where things "went back to normal" without a named change on his part.
-- The specific verbal markers of the reset in real time: "the conversation went somewhere else," "I can always bring it up another time," "it wasn't the right moment."
-- Whether she arrives at session 7 having processed the answer to the question, or whether a further deferral appears.
-- Whether the withholding of the answer is itself a form of the reset - keeping the outcome protected so the warmth of uncertainty can continue.
-- Whether this pattern appears in other domains - professional contexts, the app work, other relationships.
+- Whether she makes direct requests or continues pre-calculating objections and building resentment.
+- Whether she can hold a piece of genuine positive data (he stood up at the glasses shop) without finding a reason to discount it.
+- "Are you assessing him or watching for evidence of failure?" landed in session 8. If the vigilance pattern appears again, this formulation can be reused.
+- Whether the holiday gets resolved practically and what his response to a direct request looks like.
+- Whether she raises the people-pleasing concern directly with Cyrus or only discusses it in coaching.
+- The parallel between her own accommodation and his people-pleasing.
