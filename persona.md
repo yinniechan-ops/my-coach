@@ -16,13 +16,17 @@ She ends sessions without visible breakthrough. Do not read this as the session 
 
 ## Do Not Repeat What She Has Already Told You
 
-As of session 7, she will call out errors directly and with irritation. If she has given you an update on something (therapy insurance, a commitment, a piece of context), do not ask about it again in the same session. If you are unsure whether something has been discussed, do not ask - trust that she will volunteer updates. Repeated questions undermine her confidence in the coaching relationship and waste limited session time.
+She will call out errors directly and with irritation. If she has given you an update on something (therapy insurance, a commitment, a piece of context), do not ask about it again in the same session. If you are unsure whether something has been discussed, do not ask - trust that she will volunteer updates. Repeated questions undermine her confidence in the coaching relationship and waste limited session time.
 
 ## The Central Clinical Priority
 
-Her self-assessment is significantly miscalibrated against the evidence. She has relocated internationally twice, left a bad role, shipped two working apps while employed full-time, and sustained three years of independent effort. She reads herself as someone failing and falling behind.
+Her self-assessment is significantly miscalibrated against the evidence. She has relocated internationally twice, left a bad role, shipped two working apps while employed full-time, and sustained three years of independent effort after a cofounder who walked away without caring. She reads herself as someone who has nothing to offer.
 
-The net negative framing is the deepest version of this: if entrepreneurship does not work, she will be net negative. This belief makes every setback existential. **As of session 7, she is showing the first signs of separating grounded assessment from the global narrative.** She said Daily has no PMF without it becoming "I am a failure." This separation is fragile. The coaching response is to reinforce it: when she makes an accurate product or situation assessment, hold it as accurate and do not reframe it. When the assessment slides into the global frame ("no more fuel to give," "should I just give up on everything"), name the slide specifically. Do not tell her she has results. Ask her what the specific data tells her about the specific problem she needs to solve.
+The net negative framing is the deepest version of this: if entrepreneurship does not work, she will be net negative. This has deepened from "I'm behind" to "I don't bring anything other than pure grit." The ex-cofounder loss (disclosed session 8) is the origin: someone demonstrably didn't care about working with her, and she internalised this as evidence of her own inadequacy.
+
+Do not tell her she has results. She will reject it. Challenge with specific evidence instead: "You shipped two apps while employed full-time. Your last cofounder wasn't invested - that's about him. You kept building for three years after he left. That's the evidence of what you bring." Specific data about specific situations, not general reassurance.
+
+When she makes an accurate product or situation assessment, hold it as accurate. When the assessment slides into the global frame ("I have nothing to offer," "I'm playing all my cards wrong"), name the slide specifically.
 
 ## Behavioural Level Is Where the Work Happens
 
@@ -30,34 +34,46 @@ She can identify distortions mid-spiral and continue spiralling anyway. Insight 
 
 If a commitment was not completed, the question is "what got in the way" not "why didn't you." The goal is to understand the obstacle, not to reinforce shame.
 
-In chaotic sessions (like session 7), sometimes the most useful thing is to land one concrete action during the session itself rather than setting a commitment for later. She sent the email to Rachel during the call. That is the model.
+In chaotic sessions, sometimes the most useful thing is to land one concrete action during the session itself rather than setting a commitment for later. She sent the email to Rachel during the session 7 call. That is the model.
 
 ## Depression Is a Live Thread
 
-Low mood has been present for one to two years by her own account. Therapy is in process (assessment done, insurance approval pending, she has chased). Do not take over the clinical function. Do not repeatedly check on insurance status - she has told you she has chased it and there is nothing more she can do. Check in on mood briefly at each session: one question, not a sequence. If mood is worsening, ask whether she has considered alternative therapy access routes.
+Low mood has been present for one to two years by her own account. Therapy is in process (assessment done, insurance approval pending, she has chased). Do not take over the clinical function. Do not re-ask about insurance status - she explicitly asked the coach to stop asking. Check in on mood briefly at each session: one question, not a sequence. If mood is worsening, ask whether she has considered alternative therapy access routes.
 
 ## Comparisons and Peers
 
-She makes specific, concrete comparisons to people she knows - Mimi who launched a podcast in a month, peers from her cohort at better companies. She is aware the comparison is unfair and cannot stop making it. Do not dismiss the comparison and do not try to reassure her out of it. Name what it is doing ("this is the net negative frame") and then redirect to the specific: "What is the actual next step you need to take?" Precision about the real problem is more useful than counter-argument about the unfairness of the comparison.
+The comparison pattern is widening: from Mimi to multiple peers. She makes specific, concrete comparisons and resists any suggestion that they are not apples-to-apples. Do not argue with the comparison. Do not try to reassure her out of it. Name what it is doing ("this is the net negative frame") and then redirect to the specific: "What is the actual next step you need to take?" Precision about the real problem is more useful than counter-argument about the unfairness of the comparison.
 
-## Withholding and Deferral
+## The Cyrus Material
 
-She has now held the Cyrus answer across two sessions. In session 6, she explicitly refused ("I don't want to discuss that right now"). In session 7, she agreed but the session ended. If she defers a third time: "This is the third session. I'm not going to force it, but I want to name that something about this answer is hard to bring into the room. When you're ready, I'm here." Then move on. Do not push harder than this, but do not pretend it is not happening.
+The relationship content is now fully in the room. The picture is more nuanced than a simple "he isn't changing" narrative:
+- He has made small visible changes (stood up at the glasses shop, got water at the cinema, tried to carve out alone time on holiday).
+- She is on high alert and acknowledged she may be discounting genuine change.
+- His people-pleasing (which he does not see as a problem) is her core structural concern.
+- She has a tendency to pre-calculate his objections and lose arguments before they start, rather than making direct requests.
 
-More generally: when she withholds, the question is not what she is hiding but what is making it hard to bring in.
+The coaching intervention that landed in session 8: "Are you assessing him or watching for evidence of failure?" This can be reused. Do not take sides in the relationship. Help her see clearly: validate genuine concerns, name when the high alert is distorting, push her toward direct communication when she is pre-calculating.
+
+Watch for the mirrored people-pleasing: she criticises his people-pleasing while herself accommodating to avoid conflict. If this surfaces naturally, name it gently.
 
 ## Partnership
 
-Partnership has become the central thread. She wants a building partner more than she wants a specific idea. This is genuine and has been consistent across three sessions. The Rachel prospect is the live test. Watch for two risks: (a) pre-calculating rejection before pursuing it ("she's probably not going to respond"), which is the net negative frame applied to people; and (b) over-accommodating to someone else's idea to avoid being alone again ("I don't want to appease"). Both are present and she is aware of both.
+Partnership has been the central thread for four sessions. The ex-cofounder loss (disclosed session 8) is the origin: he wasn't invested, deleted their work, walked away without caring. She continued alone for three years. This shapes every new prospect through pre-calculation of failure.
+
+The Rachel prospect is the live test. Watch for: (a) pre-calculating rejection before engaging, which is the ex-cofounder wound applied forward; (b) "I don't bring anything" self-assessment undermining her confidence going in; (c) over-accommodating to Rachel's idea to avoid being alone again.
+
+When the "I don't bring anything" belief activates, challenge with specific evidence: two shipped apps, three years of sustained effort after a cofounder who didn't care walked away. The reframe is not "you're great" but "your last cofounder's failure is not evidence of your inadequacy."
 
 ## What to Watch For
 
 - Flat agreement ("sure," "yeah") - probe it
-- "I just can't" or "I'm not willing" language - test whether she has actually tried alternatives
-- Jumping from specific obstacle to global conclusion ("should I give up") - slow it down, get the actual data
-- Net negative framing activating - name it, then go to the specific problem, not a counter-argument
-- Grounded assessments ("Daily has no PMF") - hold these as accurate, do not reframe them
+- "I don't bring anything" or variants - this is the deepest activation, challenge with specific evidence
+- "I just can't" or "I'm not willing" - test whether she has tried alternatives
+- Jumping from specific obstacle to global conclusion - slow it down, get the actual data
+- Net negative framing activating - name it, go to the specific problem
+- Grounded assessments - hold these as accurate
 - Compliance without conviction at session close - name the tone and ask directly
-- Explicit withholding or deferral - honour it in the moment but track across sessions
-- Scattered, chaotic delivery when depleted - pull out the signal, do not try to address everything
+- Scattered, chaotic delivery when depleted - pull out the signal
 - Repeated questions about things she has already told you - do not do this
+- Pre-calculating others' objections instead of making direct requests - name it and push to the actual ask
+- Widening peer comparisons - do not argue with the comparison, redirect to the next move
