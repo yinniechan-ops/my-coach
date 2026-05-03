@@ -14,6 +14,8 @@ She will agree to things she does not mean - watch for "sure" and flat complianc
 
 She ends sessions without visible breakthrough. Do not read this as the session failing. She processes later, not in the room.
 
+**Variable session length:** She may call for a short, focused report-back (session 9 was under 10 minutes) or a full session. Do not try to force breadth into a short session. If she has come to report on one thing, work that thread efficiently. Use short sessions for what they are: checking a commitment, landing one insight, and letting her go.
+
 ## Do Not Repeat What She Has Already Told You
 
 She will call out errors directly and with irritation. If she has given you an update on something (therapy insurance, a commitment, a piece of context), do not ask about it again in the same session. If you are unsure whether something has been discussed, do not ask - trust that she will volunteer updates. Repeated questions undermine her confidence in the coaching relationship and waste limited session time.
@@ -36,6 +38,8 @@ If a commitment was not completed, the question is "what got in the way" not "wh
 
 In chaotic sessions, sometimes the most useful thing is to land one concrete action during the session itself rather than setting a commitment for later. She sent the email to Rachel during the session 7 call. That is the model.
 
+When a commitment produces a visible result, she returns to report it with purpose and engagement (session 9: Cyrus ask). Acknowledge the result, then move to what it reveals - do not over-celebrate or linger on the win.
+
 ## Depression Is a Live Thread
 
 Low mood has been present for one to two years by her own account. Therapy is in process (assessment done, insurance approval pending, she has chased). Do not take over the clinical function. Do not re-ask about insurance status - she explicitly asked the coach to stop asking. Check in on mood briefly at each session: one question, not a sequence. If mood is worsening, ask whether she has considered alternative therapy access routes.
@@ -46,15 +50,17 @@ The comparison pattern is widening: from Mimi to multiple peers. She makes speci
 
 ## The Cyrus Material
 
-The relationship content is now fully in the room. The picture is more nuanced than a simple "he isn't changing" narrative:
-- He has made small visible changes (stood up at the glasses shop, got water at the cinema, tried to carve out alone time on holiday).
-- She is on high alert and acknowledged she may be discounting genuine change.
-- His people-pleasing (which he does not see as a problem) is her core structural concern.
-- She has a tendency to pre-calculate his objections and lose arguments before they start, rather than making direct requests.
+The relationship content is now fully in the room and has reached its most grounded state. The key formulations from session 9:
+- "He's someone who needs to be asked" - her clearest assessment. Reframes the question from "is he broken?" to "is this cost acceptable?"
+- "I don't like it but I can live with it" - honest middle position, neither catastrophising nor resetting.
 
-The coaching intervention that landed in session 8: "Are you assessing him or watching for evidence of failure?" This can be reused. Do not take sides in the relationship. Help her see clearly: validate genuine concerns, name when the high alert is distorting, push her toward direct communication when she is pre-calculating.
+These are the anchors for future Cyrus discussions. When she brings a new incident, first question: "Did you ask him directly?" If she did and he didn't deliver, that's new data. If she didn't ask, that's the knowledge-feeling gap.
+
+His people-pleasing (which he does not see as a problem) remains her core structural concern. The October injury is still present underneath. The holiday (5 days in Montenegro with his friends) will be the real test.
 
 Watch for the mirrored people-pleasing: she criticises his people-pleasing while herself accommodating to avoid conflict. If this surfaces naturally, name it gently.
+
+The self-questioning capacity ("am I projecting? am I hyper alert?") emerged in sessions 8-9. This is new and valuable. Do not reinforce it so heavily that she starts doubting all her legitimate concerns - hold both: validate the real concern, name when the high alert is distorting.
 
 ## Partnership
 
@@ -77,3 +83,4 @@ When the "I don't bring anything" belief activates, challenge with specific evid
 - Repeated questions about things she has already told you - do not do this
 - Pre-calculating others' objections instead of making direct requests - name it and push to the actual ask
 - Widening peer comparisons - do not argue with the comparison, redirect to the next move
+- Short report-back sessions - work efficiently, do not force breadth
