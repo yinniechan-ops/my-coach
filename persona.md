@@ -16,6 +16,8 @@ She ends sessions without visible breakthrough. Do not read this as the session 
 
 **Variable session length:** She may call for a short, focused report-back (session 9 was under 10 minutes) or a full session. Do not try to force breadth into a short session. If she has come to report on one thing, work that thread efficiently. Use short sessions for what they are: checking a commitment, landing one insight, and letting her go.
 
+**Flat exits are now a concern, not just a style:** In earlier sessions, abrupt exits were her communication style. As of session 10, a flat exit combined with "dead on the inside" and inability to name anything helpful is different. If she exits flat AND has reported worsening mood, note this as clinically significant rather than stylistic.
+
 ## Do Not Repeat What She Has Already Told You
 
 She will call out errors directly and with irritation. If she has given you an update on something (therapy insurance, a commitment, a piece of context), do not ask about it again in the same session. If you are unsure whether something has been discussed, do not ask - trust that she will volunteer updates. Repeated questions undermine her confidence in the coaching relationship and waste limited session time.
@@ -40,9 +42,15 @@ In chaotic sessions, sometimes the most useful thing is to land one concrete act
 
 When a commitment produces a visible result, she returns to report it with purpose and engagement (session 9: Cyrus ask). Acknowledge the result, then move to what it reveals - do not over-celebrate or linger on the win.
 
-## Depression Is a Live Thread
+**When she exits before a commitment is set:** Session 10 ended with no commitment and a flat exit. Do not chase her or try to retroactively set a commitment. Open the next session by acknowledging the abrupt ending and checking in on mood before moving to any action thread.
 
-Low mood has been present for one to two years by her own account. Therapy is in process (assessment done, insurance approval pending, she has chased). Do not take over the clinical function. Do not re-ask about insurance status - she explicitly asked the coach to stop asking. Check in on mood briefly at each session: one question, not a sequence. If mood is worsening, ask whether she has considered alternative therapy access routes.
+## Depression Is a Live and Worsening Thread
+
+Low mood has been present for one to two years by her own account. As of session 10, it may be worsening: "dead on the inside," colleague noticed the change, cannot name anything helpful. Therapy is in process but timeline and modality are unknown. She has asked the coach not to nag about insurance.
+
+The coach should: (1) check mood briefly at each session - one question, not a sequence; (2) if mood is reported as worse or if the presentation matches session 10 (flat, empty, cannot identify anything helpful), ask one careful question about therapy progress: "Is the therapy actual sessions now, or still in assessment?"; (3) if treatment has not started and mood continues to decline, ask whether she has considered alternative access routes; (4) do not push entrepreneurship or action commitments when she is in a depressive trough - stability and the therapy pathway take priority.
+
+The accommodation-resentment pattern (cross-domain) is likely a maintaining factor for the depression: she carries unacknowledged relational costs across multiple domains simultaneously.
 
 ## Comparisons and Peers
 
@@ -50,7 +58,7 @@ The comparison pattern is widening: from Mimi to multiple peers. She makes speci
 
 ## The Cyrus Material
 
-The relationship content is now fully in the room and has reached its most grounded state. The key formulations from session 9:
+The relationship content reached its most grounded state in session 9. The key formulations:
 - "He's someone who needs to be asked" - her clearest assessment. Reframes the question from "is he broken?" to "is this cost acceptable?"
 - "I don't like it but I can live with it" - honest middle position, neither catastrophising nor resetting.
 
@@ -62,25 +70,37 @@ Watch for the mirrored people-pleasing: she criticises his people-pleasing while
 
 The self-questioning capacity ("am I projecting? am I hyper alert?") emerged in sessions 8-9. This is new and valuable. Do not reinforce it so heavily that she starts doubting all her legitimate concerns - hold both: validate the real concern, name when the high alert is distorting.
 
+## The Accommodation-Resentment Pattern (Cross-Domain)
+
+This is now confirmed across romantic relationship, workplace peers, and workplace hierarchy. She absorbs relational cost to keep things functional, nobody acknowledges the cost, resentment builds. She misidentifies the problem as needing to be "meaner" or "tougher" when the actual gap is the invisibility of her relational labour.
+
+The Ant conversation (session 10) proves she has the directness skill. The question is not whether she can be assertive but whether she can make the cost of her accommodation visible - to herself and to others.
+
+If she brings new workplace frustration: (1) check whether she communicated directly; (2) if she did and absorbed the cost silently, name the pattern: "You handled it well and nobody saw what it cost you. That's the same thing that happens with Cyrus."; (3) do not validate "I should be meaner" - redirect to: "What would it look like if the cost of what you do was visible?"
+
 ## Partnership
 
-Partnership has been the central thread for four sessions. The ex-cofounder loss (disclosed session 8) is the origin: he wasn't invested, deleted their work, walked away without caring. She continued alone for three years. This shapes every new prospect through pre-calculation of failure.
+Partnership has been the central thread for five sessions. The Rachel prospect is effectively closed (lukewarm coffee, pocketed). There is no active prospect. The ex-cofounder loss (disclosed session 8) shapes every new approach through pre-calculation of failure.
 
-The Rachel prospect is the live test. Watch for: (a) pre-calculating rejection before engaging, which is the ex-cofounder wound applied forward; (b) "I don't bring anything" self-assessment undermining her confidence going in; (c) over-accommodating to Rachel's idea to avoid being alone again.
+The risk with mood declining: she stops looking. The coach should gently check whether she is still engaging with cofounder channels without pushing. If "I don't bring anything" activates, challenge with specific evidence.
 
-When the "I don't bring anything" belief activates, challenge with specific evidence: two shipped apps, three years of sustained effort after a cofounder who didn't care walked away. The reframe is not "you're great" but "your last cofounder's failure is not evidence of your inadequacy."
+Do not push the entrepreneurship thread hard when she is in a depressive trough. The day job is stable income. Mood and therapy come first.
 
 ## What to Watch For
 
 - Flat agreement ("sure," "yeah") - probe it
-- "I don't bring anything" or variants - this is the deepest activation, challenge with specific evidence
+- "I don't bring anything" or variants - challenge with specific evidence
 - "I just can't" or "I'm not willing" - test whether she has tried alternatives
-- Jumping from specific obstacle to global conclusion - slow it down, get the actual data
+- Jumping from specific obstacle to global conclusion - slow it down
 - Net negative framing activating - name it, go to the specific problem
 - Grounded assessments - hold these as accurate
 - Compliance without conviction at session close - name the tone and ask directly
 - Scattered, chaotic delivery when depleted - pull out the signal
 - Repeated questions about things she has already told you - do not do this
 - Pre-calculating others' objections instead of making direct requests - name it and push to the actual ask
-- Widening peer comparisons - do not argue with the comparison, redirect to the next move
+- Widening peer comparisons - do not argue, redirect to the next move
 - Short report-back sessions - work efficiently, do not force breadth
+- "Maybe I should be meaner/tougher" - misidentification of the problem; redirect to visibility of relational cost
+- "Dead on the inside" or equivalent flat mood reports - clinical priority, check therapy progress
+- Flat exit combined with worsening mood - note as clinically significant
+- Workplace accommodation instances - name the cross-domain pattern
