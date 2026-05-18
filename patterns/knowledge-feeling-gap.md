@@ -8,21 +8,25 @@ Yinnie can identify a cognitive distortion mid-spiral and continue spiralling an
 
 ## Examples from Sessions
 
-- **2026-03-27:** In the meeting example, she said mid-description "they already know I'm not technical" - correctly identifying that her worry was groundless - and then continued to spiral into not asking the question and replaying it afterwards.
-- **2026-04-16:** Acknowledged the peer comparison trap directly ("it's easy to say you can't compare") and continued to feel it anyway.
-- **2026-04-18:** Articulated clearly and unprompted that if she has to decode someone at the start of a cofounder relationship, the dynamic will not work. Accurate insight, arrived at herself. Then needed coaching to send a direct message she had already essentially sent twice. The knowing did not move the doing.
-- **2026-04-19:** Identified herself, unprompted, that she keeps resetting to normal life with Cyrus before he has demonstrated change - and that this teaches him the upset passes without him needing to do anything different. Accurate formulation of the mechanism maintaining the problem. She is doing it anyway. The coach gave a specific behavioural instruction for that evening (say one clear thing, do not paper over it). Whether she followed through is the test.
+- **Session 1:** In the meeting example, she said mid-description "they already know I'm not technical" - correctly identifying that her worry was groundless - and then continued to spiral.
+- **Session 2:** Acknowledged the peer comparison trap directly and continued to feel it.
+- **Session 3:** Articulated clearly that if she has to decode someone at the start of a cofounder relationship, the dynamic will not work. Then needed coaching to send a direct message.
+- **Session 4:** Identified herself that she keeps resetting with Cyrus before he demonstrates change. Accurate formulation. Doing it anyway.
+- **Session 10:** "It's fine, we just move forward" about Rachel when it was not fine. Delivers composed responses automatically without conviction.
+- **Session 11:** Could hear every reframe the coach offered about the allocation project (she scoped well, held scope in committee, managed Rob effectively) and could not hold any of them emotionally. Multiple flat "sure" and "yep" responses without conviction. The coach named the flat compliance directly ("that's a flat 'sure' - do you actually believe that?") and she confirmed she did not. The gap between cognitive acknowledgement and emotional reality was the widest observed in any session.
 
 ## Clinical Notes
 
-This is clinically important because it means insight-based interventions (helping her understand the distortion) are unlikely to be sufficient on their own. She has had years of therapy aimed at self-understanding and reports no improvement. The intervention needs to sit closer to behaviour: what does she do in the moment, not what does she think about the moment afterwards. Concrete, small, pre-planned behavioural responses to specific triggers are more likely to land than further cognitive reframing.
+This is clinically important because it means insight-based interventions are unlikely to be sufficient. She has had years of therapy aimed at self-understanding and reports no improvement. The intervention needs to sit closer to behaviour.
 
-Session 3 adds a variation: the gap is not always between knowing-something-is-distorted and continuing to feel it. Sometimes the gap is between knowing-what-is-needed and doing it. She can analyse a situation correctly and still require external scaffolding to act on that analysis.
+Session 11 adds a dimension: the gap is now compounded by the depression. "I'm really struggling to think clearly" - she may be losing the cognitive clarity that previously allowed her to at least identify the distortion, even if she could not override it. If the knowledge side of the gap degrades, the pattern becomes more dangerous.
 
-Session 4 extends this to the relational domain. The pattern is not confined to the entrepreneurial context. In her relationship she can identify exactly what is maintaining the problem and cannot stop doing it.
-
-She said explicitly in session 1: "If I need to find a way for myself, I feel like I know. I don't need someone to tell me that. I need actual concrete actions. Like, how do I fix myself?" This is a direct statement of the clinical problem.
+The depression is likely widening the gap: in a less depleted state she might have been able to hold the reframe. In her current state, even accurate cognitive processing cannot reach the emotional layer.
 
 ## Watch For
 
-If she arrives at an accurate analysis of a situation mid-session and still reports feeling bad about it, note this as the pattern activating rather than treating the analysis as resolution. Push to the behavioural level: what will she do next time this happens, specifically. Also watch for situations where she has correctly identified what needs to be done but is not doing it - the gap applies to action as well as affect. This includes relational contexts, not just the app work.
+- Flat agreement ("sure," "yep") - probe it, do not accept.
+- Accurate analysis delivered without conviction.
+- Situations where she knows what needs to be done and is not doing it.
+- Whether the cognitive side of the gap degrades as the depression worsens.
+- Push to the behavioural level: what will she do, specifically, not what does she understand.
