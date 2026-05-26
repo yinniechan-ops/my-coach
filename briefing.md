@@ -1,65 +1,56 @@
 # Briefing for Next Session
 
-**Prepared after:** Session 11 (2026-05-18)
+## Last Session (2026-05-26, Session 12)
 
-## Last Session
+This was a crisis call, not a coaching session. Yinnie called immediately after being harassed by a stranger in a car park near her home. She was selling a TV on Facebook Marketplace. A man who was already in the car park approached her with confidence - she mistook him for the buyer. He was not. He asked intrusive personal questions (where she was from, guessed her ethnicity, pointed out a birthmark on her face). She could not disengage cleanly because of the genuine confusion. The real buyer eventually appeared and the transaction completed.
 
-Yinnie called in sick on a bank holiday Monday, depleted and anxious. The entire session was driven by a workplace situation: an allocation project she is leading got its scope narrowed by the product committee, she had to deliver that news to a sensitive engineer (Rob), Rob then escalated to his manager (Joe, head of engineering) instead of coming back to her, and Joe put in a meeting for the next day (May 19). She presented all of this as evidence of PM failure.
+The primary fear is not about the incident itself but what it means going forward: the car park is opposite her regular supermarket, very close to home. She believes the man may live locally. She has a visible birthmark that makes her feel identifiable. She explicitly said: "My anxiety is not about not feeling safe at home. My anxiety is the fact that I need to leave my house."
 
-The actual narrative contradicted her at every turn: she scoped the project well, she challenged the committee on applying the investment lens consistently, she managed a difficult conversation with Rob who confirmed 2-cycle delivery, and the project is on track. The coach named this repeatedly. She could hear the reframes cognitively but could not hold them emotionally. Multiple flat "sure" and "yep" responses without conviction.
+She arrived activated and scared - very different from the flat, depleted presentations of sessions 10-11. She was precise, corrected the coach twice when he misunderstood the situation, and asked directly for reality-testing ("do you think I am catastrophising?"). Self-blame activated immediately ("I feel stupid") despite doing everything right. She predicted and pre-dismissed Cyrus's response before receiving it. By end of session she was settling and chose to get lost in work.
 
-Deepest layer that surfaced at the end: "I'll always be that PM that is not technical. I hate having to say this all the time." This was quieter and more resigned than the rest - a persistent wound, not a new fear.
-
-Mood: "Nothing has changed" from session 10's "dead on the inside." NEW: she named cognitive impairment for the first time - "I'm really struggling to think clearly." Three sessions now at this level without treatment.
-
-Therapy: she has a referral but had not booked an appointment. Coach pushed for booking May 19. She agreed with irritation ("I will make it happen. Can we just move on?") - the irritation is more engaged than flat compliance but the pattern of agreeing to end pressure is familiar.
-
-Two things were scheduled for May 19: the therapy booking call and the Joe meeting. No other commitments set.
-
-Emotional register: anxiety-driven energy at the start, depleted resignation by the end. The "not technical" disclosure was the truest, quietest moment. She is sick, depressed, and spiralling about a meeting.
+No coaching threads were touched. Therapy appointment status unknown. Joe meeting outcome unknown. No commitments set.
 
 ## Active Threads
 
-**1. Depression and therapy (HIGHEST PRIORITY)**
-Three sessions with "dead on the inside" or equivalent. Cognitive impairment now named. No treatment started. Referral obtained but not booked. The coach pushed and she agreed with irritation. OPEN THE NEXT SESSION by asking whether she booked. If she did not, this is a pattern (three sessions of agreeing and not acting) and needs to be named directly, not as a nag but as clinical concern. If treatment has started, that is the most important development in weeks.
+**1. Therapy appointment (HIGHEST PRIORITY).** She committed to booking on May 19 (session 11). Session 12 was a crisis and it was not discussed. This is now overdue by a week. Three sessions at severe mood before the crisis call, plus now an acute safety incident on top. Ask directly at session open. If she has not booked, this needs to be confronted - not with nagging but with a direct statement about the clinical picture: depressive baseline plus acute incident plus no treatment is a concerning combination.
 
-**2. Workplace accommodation-resentment (cross-domain, intensifying)**
-Session 10 established two instances (Ant, Sam). Session 11 adds a third in a new configuration: she is being squeezed from above (committee narrows scope) and below (Rob escalates to Joe). She carries institutional decisions to people who blame her. Rob going to Joe rather than talking to her directly is the identical structure to Sam going to the CTO (session 10). She has not made this connection. If she brings the Joe meeting outcome, watch for: (a) whether she processed it as the accommodation pattern or as personal failure; (b) whether Rob's escalation triggered the same resentment as Sam's.
+**2. Neighbourhood avoidance.** The compounding anxiety loop pattern means this incident could permanently raise her baseline if she begins avoiding the area. She named this fear herself: "I'm never gonna go back to feeling like that again." Check whether she has been to the supermarket area since. If she is avoiding, name it as the anxiety writing new rules and help her plan a specific, low-stakes return.
 
-**3. Dispositional attribution - full activation**
-Every ambiguous workplace signal routed through personal failure in session 11. The coach challenged with specific evidence and got cognitive traction but no emotional movement. The "not technical" belief is the deepest layer - it functions like the "I don't bring anything" belief but in the PM domain. Do not try to argue her out of it with reassurance. Challenge with specific evidence from her own narrative: she diagnosed three data sources, she raised the consistency argument in committee, she read Rob's personality correctly and adapted her approach.
+**3. Cyrus response.** She predicted he would say "everything's gonna be okay" and pre-dismissed it. Check what actually happened. If his response matched her prediction, explore whether she told him what she actually needed. If she did not tell him, this is the pre-calculation pattern preventing her from getting support.
 
-**4. Cofounder search and entrepreneurship (DORMANT)**
-Completely absent for two sessions. Rachel is pocketed. No new prospects. She may have stopped looking entirely. The depression is likely the reason. Do not push this thread while she is in crisis - but if mood improves, check whether she is still engaging with any cofounder channels.
+**4. Joe meeting (session 11, unresolved).** She was pre-calculating failure about this meeting. The crisis session meant no follow-up. If she raises it, work it. If she does not raise it, ask briefly - the outcome matters for testing whether her pre-calculations matched reality.
 
-**5. Cyrus and holiday (NO NEW DATA)**
-Not mentioned in session 11. Montenegro holiday timing still unknown. The session 9 formulations ("he's someone who needs to be asked," "I don't like it but I can live with it") are the last Cyrus data. The holiday is the next test. Do not raise unless she does.
+**5. Depression baseline.** Three sessions (10, 11, and possibly still) at "dead on the inside" / "nothing has changed" / cognitive impairment. The crisis session was a different emotional state (adrenaline, not flatness). The question is whether the acute incident has added to the depressive load or was processed as discrete. Check mood.
+
+**6. Work accommodation pattern.** Sessions 10-11 revealed cross-domain accommodation-resentment. Not discussed in session 12. Dormant but live.
+
+**7. Cofounder search / entrepreneurship.** Completely dormant for three sessions. Do not push while she is in crisis. If she raises it spontaneously, that is a positive signal.
 
 ## Pattern Pulse
 
-| Pattern | Session 11 Status | Notes |
-|---|---|---|
-| Accommodation-resentment | Active, intensifying | New vertical configuration. Third workplace instance. She does not see the cross-domain parallel. |
-| Dispositional attribution | Full activation | Every signal = personal failure. "Not technical" resurfaced as deepest variant. |
-| Knowledge-feeling gap | Active | Could hear every reframe, could not hold any. Flat compliance throughout. |
-| Depression/anxiety | Stable at worst level | "Nothing has changed." Cognitive impairment named. No treatment. |
-| Net negative framing | Background | "Not technical" = permanent deficit variant. Not explicitly activated as peer comparison. |
-| Pre-calculation of failure | Active | Spent session rehearsing Joe meeting worst cases. |
-| Reset-resentment (Cyrus) | Dormant | Not mentioned. |
-| Partnership as live need | Dormant | Not mentioned. |
+**Active in session 12:**
+- Knowledge-feeling gap: purest form observed. Asked "am I catastrophising?" and could not use the answer.
+- Dispositional attribution: immediate self-blame ("I feel stupid") despite doing everything right.
+- Compounding anxiety loop: high risk of neighbourhood avoidance. She named the fear of permanent baseline increase.
+- Accommodation: even under harassment, she accommodated - answered questions, played guessing games.
+- Pre-calculation of Cyrus: predicted and dismissed his response before receiving it.
+
+**Dormant:**
+- Net negative framing (no peer comparisons, no entrepreneurship content)
+- Accommodation-resentment workplace thread (not touched)
+- Reset-and-resentment cycle / Cyrus material (only the pre-calculation appeared)
+- "Not technical" belief
+- Partnership as live need
+
+**New observation:** Yinnie in acute crisis is a very different presentation from Yinnie in chronic depletion. She was precise, corrective, engaged, and directive. She pushed back on the coach twice with accuracy. The energy and clarity were absent in sessions 10-11. This may be relevant: adrenaline broke through the flatness. It does not mean she is better - but it means the capacity is still there underneath the depression.
 
 ## If They Bring Up...
 
-**The Joe meeting outcome:** Listen for whether she frames it as failure or situational. If it went fine, hold that as evidence - she pre-calculated a disaster that did not happen. If it went badly, separate what was actually her responsibility from what was the committee's decision. Load `sessions/2026-05-18.md` for the specific evidence she had going in.
-
-**Therapy:** If she booked, acknowledge it simply and move on - do not over-celebrate. If she did not, name the pattern directly: three sessions at "dead on the inside" with no treatment, and this is the third time she has agreed to book. The question is not "why not" but "what is actually in the way." Load `sessions/2026-05-05.md` for the original "dead on the inside" disclosure.
-
-**Rob or workplace frustration:** Check whether she sees the parallel to Sam (session 10) - someone routing around her to management instead of talking to her. If she does not see it, name it: "Rob went to Joe instead of coming back to you. Sam went to the CTO instead of talking to you. That's the same thing happening twice." Load `sessions/2026-05-05.md` and `patterns/accommodation-resentment.md`.
-
-**"Not technical" or PM failure feelings:** Do not reassure generally. Challenge with the specific evidence from her own session 11 narrative: three-source diagnosis, consistency challenge in committee, reading Rob correctly. If she says "I should be more technical," ask: "What specific technical knowledge would have changed the outcome in this situation?" - the answer is likely nothing.
-
-**Cyrus or the holiday:** Load `sessions/2026-05-03.md` for the last Cyrus data. The anchors are "he's someone who needs to be asked" and "I don't like it but I can live with it." If a new incident comes up, first question: "Did you ask him directly?"
-
-**Cofounder or building:** If she raises this spontaneously, that is a positive signal - it means energy is returning. Do not push it. Check whether she is still on YC matching. Load `patterns/partnership-as-live-need.md` for context.
-
-**If she arrives flat and empty again:** Prioritise mood and therapy over any work thread. One question: "Is the baseline the same, better, or worse?" If worse, the therapy timeline is the only agenda item.
+- **The harassment incident / neighbourhood fear:** Check whether she has been back to the area. If avoiding, name the pattern and help plan a low-stakes return. Do not minimise the incident. The fear was reasonable; the avoidance would be the problem.
+- **Cyrus's response to the incident:** Check whether it matched her prediction. If yes, explore whether she told him what she actually needed. If she says "he just said it would be okay" - ask "did you tell him what you actually needed?" This connects to the session 9 formulation ("he's someone who needs to be asked").
+- **Therapy:** If booked, acknowledge simply and move on. If not booked, be direct: "You've been at severe mood for three weeks, you've now had a safety scare on top of that, and there's still no appointment. What is actually in the way?" Do not accept "I'll do it" without a specific action (call while on the session, or name the specific barrier).
+- **Joe meeting from session 11:** Load session 11 for context. She was pre-calculating failure. Check whether the reality matched the catastrophising. If it went fine, hold that as evidence against pre-calculation.
+- **Work frustration / PM fatigue:** Load sessions 10-11 for the accommodation-resentment pattern. Check whether someone routed around her again. If she says "I should be meaner" - redirect to visibility of relational cost.
+- **Feeling stupid / self-blame about the incident:** Challenge directly: "You chose a public place, it was light, you had the buyer's details. You checked behind you on the way home. You called a friend. Name one thing you should have done differently." The answer is nothing.
+- **"I can't leave my house" / avoidance talk:** Distinguish between the adrenaline response (normal, temporary) and avoidance behaviour (pattern, harmful). Ask specifically: have you been to the supermarket since? If yes, that is the evidence. If no, plan one specific trip.
+- **Depression / mood:** If she reports worsening, connect it to the therapy urgency. If she reports the same level, note that the acute incident has not made it worse (which is actually information). If she reports slight improvement, hold it lightly without over-celebrating.
